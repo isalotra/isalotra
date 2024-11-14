@@ -24,12 +24,12 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=isalotra&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isalotra&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isalotra&layout=compact&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=isalotra&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=isalotra&theme=dark)
 
 Check out more detailed analytics here:  
-[![GitHub Stats](https://ossinsight.io/analyze/isalotra)](https://ossinsight.io/analyze/isalotra)
+[![GitHub OSS Insight](https://ossinsight.io/analyze/isalotra)](https://ossinsight.io/analyze/isalotra)
 
 ---
 
