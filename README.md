@@ -24,7 +24,11 @@
 
 ## 📊 GitHub Stats
 
-Check out my GitHub stats and analytics here:  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Isalotra&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isalotra&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Isalotra&theme=dark)
+
+Check out more detailed analytics here:  
 [![GitHub Stats](https://ossinsight.io/analyze/isalotra)](https://ossinsight.io/analyze/isalotra)
 
 ---
