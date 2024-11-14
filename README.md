@@ -61,13 +61,6 @@ Applying design principles to create modular, maintainable, and reusable code.
 ![DRY](https://img.shields.io/badge/-DRY%20(Don't%20Repeat%20Yourself)-FFD700?style=flat)
 ![SOLID](https://img.shields.io/badge/-SOLID%20Principles-FFD700?style=flat)
 
-#### SOLID Principles
-- ![Single Responsibility](https://img.shields.io/badge/-Single%20Responsibility-FFD700?style=flat)
-- ![Open/Closed](https://img.shields.io/badge/-Open/Closed-FFD700?style=flat)
-- ![Liskov Substitution](https://img.shields.io/badge/-Liskov%20Substitution-FFD700?style=flat)
-- ![Interface Segregation](https://img.shields.io/badge/-Interface%20Segregation-FFD700?style=flat)
-- ![Dependency Inversion](https://img.shields.io/badge/-Dependency%20Inversion-FFD700?style=flat)
-
 ### 🧩 Design Patterns
 Leveraging design patterns to solve recurring problems in a standard way, improving code readability and flexibility.
 
