@@ -47,41 +47,48 @@
 
 ## 📚 Theoretical Foundations
 
-### Algorithmics & Data Structures
+### 🔍 Algorithmics & Data Structures
 Understanding algorithms and data structures is fundamental in creating efficient data pipelines and optimized solutions.
 
-- **Sorting and Searching**: Mastery of basic algorithms like Quick Sort, Merge Sort, and Binary Search.
-- **Data Structures**: Familiar with arrays, linked lists, stacks, queues, hash tables, and trees.
-- **Big O Notation**: Strong understanding of time and space complexity to ensure scalable solutions.
+![Sorting and Searching](https://img.shields.io/badge/-Sorting%20%26%20Searching-4CAF50?style=flat)
+![Data Structures](https://img.shields.io/badge/-Data%20Structures-4CAF50?style=flat)
+![Big O Notation](https://img.shields.io/badge/-Big%20O%20Notation-4CAF50?style=flat)
 
-### Software Design Principles
+### 🛠️ Software Design Principles
 Applying design principles to create modular, maintainable, and reusable code.
 
-- **KISS (Keep It Simple, Stupid)**: Striving for simplicity in code and design, avoiding unnecessary complexity.
-- **DRY (Don't Repeat Yourself)**: Ensuring that code is modular and reusable, reducing redundancy.
-- **SOLID Principles**
+![KISS](https://img.shields.io/badge/-KISS%20(Keep%20It%20Simple%20Stupid)-FFD700?style=flat)
+![DRY](https://img.shields.io/badge/-DRY%20(Don't%20Repeat%20Yourself)-FFD700?style=flat)
+![SOLID](https://img.shields.io/badge/-SOLID%20Principles-FFD700?style=flat)
 
-### Design Patterns
+#### SOLID Principles
+- ![Single Responsibility](https://img.shields.io/badge/-Single%20Responsibility-FFD700?style=flat)
+- ![Open/Closed](https://img.shields.io/badge/-Open/Closed-FFD700?style=flat)
+- ![Liskov Substitution](https://img.shields.io/badge/-Liskov%20Substitution-FFD700?style=flat)
+- ![Interface Segregation](https://img.shields.io/badge/-Interface%20Segregation-FFD700?style=flat)
+- ![Dependency Inversion](https://img.shields.io/badge/-Dependency%20Inversion-FFD700?style=flat)
+
+### 🧩 Design Patterns
 Leveraging design patterns to solve recurring problems in a standard way, improving code readability and flexibility.
 
-- **Singleton**: Ensuring a class has only one instance, often used in data access objects.
-- **Factory**: Creating objects without specifying the exact class, commonly used in data pipeline processing.
-- **Observer**: Allowing objects to observe changes in other objects, useful in event-driven architectures.
-- **Decorator**: Adding new functionality to an object dynamically, helpful in extending data processing capabilities.
-- **Adapter**: Making incompatible interfaces compatible, useful for integrating multiple data sources.
+![Singleton](https://img.shields.io/badge/-Singleton-FF6347?style=flat)
+![Factory](https://img.shields.io/badge/-Factory-FF6347?style=flat)
+![Observer](https://img.shields.io/badge/-Observer-FF6347?style=flat)
+![Decorator](https://img.shields.io/badge/-Decorator-FF6347?style=flat)
+![Adapter](https://img.shields.io/badge/-Adapter-FF6347?style=flat)
 
-### Data Engineering Principles
+### 🔗 Data Engineering Principles
 Best practices for building scalable, reliable, and efficient data pipelines.
 
-- **Data Modeling**: Structuring data to ensure efficient querying and storage.
-- **ETL/ELT Processes**: Understanding Extract, Transform, Load methodologies and when to use each.
-- **Batch vs. Stream Processing**: Choosing the appropriate method based on data latency requirements.
-- **Data Quality Management**: Implementing practices to ensure data accuracy, consistency, and completeness.
-- **Orchestration and Scheduling**: Leveraging tools like Apache Airflow to manage and automate complex workflows.
+![Data Modeling](https://img.shields.io/badge/-Data%20Modeling-1E90FF?style=flat)
+![ETL/ELT Processes](https://img.shields.io/badge/-ETL/ELT%20Processes-1E90FF?style=flat)
+![Batch vs Stream Processing](https://img.shields.io/badge/-Batch%20vs%20Stream%20Processing-1E90FF?style=flat)
+![Data Quality Management](https://img.shields.io/badge/-Data%20Quality%20Management-1E90FF?style=flat)
+![Orchestration and Scheduling](https://img.shields.io/badge/-Orchestration%20%26%20Scheduling-1E90FF?style=flat)
 
 ---
 
-By grounding my work in these theoretical foundations, I strive to create solutions that are not only functional but also robust, scalable, and maintainable over time.
+
 
 ### 🌟 Fun Facts
 
