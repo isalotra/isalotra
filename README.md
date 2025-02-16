@@ -1,5 +1,7 @@
 # Hi there, I'm Isalotra 👋
 
+![Isalotra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isalotra&show_icons=true&theme=radical)
+
 🎓 **Senior Data Engineer**  
 💼 Passionate about **Data** and **Machine Learning**  
 📚 Forever a seeker of knowledge, always learning and exploring new horizons in tech.
