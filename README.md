@@ -1,18 +1,10 @@
 # Hi there, I'm Isalotra 👋
 
-![Isalotra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isalotra&show_icons=true&theme=radical)
-![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=isalotra&layout=compact&theme=radical)
-![Activité récente](https://github-readme-activity-graph.vercel.app/graph?username=isalotra&theme=radical)
-
-
-
 🎓 **Senior Data Engineer**  
 💼 Passionate about **Data** and **Machine Learning**  
 📚 Forever a seeker of knowledge, always learning and exploring new horizons in tech.
 
 ✨ I thrive on turning raw data into valuable insights and building scalable data solutions. I believe in the power of data to transform and make impactful decisions. When I'm not engineering data pipelines, you might find me exploring new machine learning algorithms or optimizing workflows to deliver better and faster results.
-
-🌍 Let's connect and create data-driven solutions that make a difference!
 
 ---
 
@@ -30,13 +22,6 @@
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white&style=flat)
 ![dbt](https://img.shields.io/badge/-dbt-FF694B?logo=dbt&logoColor=white&style=flat)
 ![ETL](https://img.shields.io/badge/-ETL-4CAF50?style=flat)
-
-### Databases & Data Warehouses
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white&style=flat)
-![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?logo=googlebigquery&logoColor=white&style=flat)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat)
 
 ### Cloud & Infrastructure
 ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=flat)
@@ -67,15 +52,6 @@ Applying design principles to create modular, maintainable, and reusable code.
 ![DRY](https://img.shields.io/badge/-DRY%20(Don't%20Repeat%20Yourself)-FFD700?style=flat)
 ![SOLID](https://img.shields.io/badge/-SOLID%20Principles-FFD700?style=flat)
 
-### 🧩 Design Patterns
-Leveraging design patterns to solve recurring problems in a standard way, improving code readability and flexibility.
-
-![Singleton](https://img.shields.io/badge/-Singleton-FF6347?style=flat)
-![Factory](https://img.shields.io/badge/-Factory-FF6347?style=flat)
-![Observer](https://img.shields.io/badge/-Observer-FF6347?style=flat)
-![Decorator](https://img.shields.io/badge/-Decorator-FF6347?style=flat)
-![Adapter](https://img.shields.io/badge/-Adapter-FF6347?style=flat)
-
 ### 🔗 Data Engineering Principles
 Best practices for building scalable, reliable, and efficient data pipelines.
 
@@ -84,16 +60,6 @@ Best practices for building scalable, reliable, and efficient data pipelines.
 ![Batch vs Stream Processing](https://img.shields.io/badge/-Batch%20vs%20Stream%20Processing-1E90FF?style=flat)
 ![Data Quality Management](https://img.shields.io/badge/-Data%20Quality%20Management-1E90FF?style=flat)
 ![Orchestration and Scheduling](https://img.shields.io/badge/-Orchestration%20%26%20Scheduling-1E90FF?style=flat)
-
----
-
-
-
-### 🌟 Fun Facts
-
-- 🌱 I'm constantly experimenting with new technologies to push the boundaries of data engineering.
-- 🎯 My focus is on building efficient, scalable data solutions that deliver impactful insights.
-- 💡 "Data is the new oil, but only when it’s refined and ready to use."
 
 ---
 
